@@ -68,7 +68,7 @@ MONGO_URI=mongodb://127.0.0.1:27017/payment-system
 ### 4. Start MongoDB
 
 ```
-mongod
+mongodb
 ```
 
 ### 5. Run the server
